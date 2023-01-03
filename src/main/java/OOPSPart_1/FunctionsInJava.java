@@ -6,7 +6,7 @@ public class FunctionsInJava {
 
         System.out.println("This is main method");
 
-        /* To call all the methods present we have to create the Objact of calss */
+        /* To call all the methods present we have to create the Object of class */
 
         FunctionsInJava fun = new FunctionsInJava();
 
