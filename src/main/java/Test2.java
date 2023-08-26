@@ -5,9 +5,9 @@ public class Test2 {
     public static void main(String[] args) {
 
         Test2 test2 = new Test2();
-/*      test2.firstQuestion();
+        test2.firstQuestion();
         test2.secondQuestion('B');
-        test2.thirdQuestion();*/
+        test2.thirdQuestion();
         test2.fourthQuestion();
     }
 

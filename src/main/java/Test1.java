@@ -8,11 +8,11 @@ public class Test1 {
         Test1 test1 = new Test1();
         test1.percentageCalculator(80, 52, 74, 72, 89);
 
-        /*System.out.println(" 2. Take input from user and greet him according to the entered name");
+        System.out.println(" 2. Take input from user and greet him according to the entered name");
         test1.secondTest();
 
         System.out.println(" 3. Verify whether number entered by use is integer or not");
-        test1.thirdTest();*/
+        test1.thirdTest();
 
     }
 
