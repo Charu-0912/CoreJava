@@ -59,7 +59,7 @@ public class ConditionsPracticeSets {
         } else if (income > 500000 && income <= 1000000) {
             tax = tax + deduction * 0.05f;
             tax = tax + (income - 500000) * .20f;
-            System.out.println("You need to pay 20% tax \nYour total tax is " + tax);
+            System.out.println("You need to  pay 20% tax \nYour total tax is " + tax);
 
         } else if (income > 1000000) {
             tax = tax + deduction * 0.05f;
